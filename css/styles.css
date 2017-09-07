@@ -8,6 +8,7 @@ p {
 
 img {
   display: block;
-  margin-left: auto;
-  width: 40%;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
